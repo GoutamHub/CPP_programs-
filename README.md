@@ -1,6 +1,5 @@
 # CPP_programs
-C++ Programs with various OOPS concepts
-All CPP concepts are coded and divided into different chapters.
+C++ Programs with various OOPS concepts coded and divided into different chapters.
 
 ---------------------------
 CHAPTER-1 (BASICS of CPP)
