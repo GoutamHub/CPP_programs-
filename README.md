@@ -8,7 +8,12 @@ CHAPTER-1 (BASICS of CPP)
 --Friend Function and Friend Class
 --Static Member variables and Static Member functions
 --Array of objects
---Call by object and pass reference of an object to a method
+--Call by Object and Pass by Object
+--Inline functions
+--Nested Class and Nested Objects
 ------------------------
 CHAPTER-2 (INHERITENCE)
 ------------------------
+--Public inheritence 
+--Private inheritence
+--Single Inheritence
