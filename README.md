@@ -1,6 +1,7 @@
-# CPP_programs-
-C++ Programs with all basic OOPS concepts
-Various CPP concepts are coded and divided into different chapters.
+# CPP_programs
+C++ Programs with various OOPS concepts
+All CPP concepts are coded and divided into different chapters.
+
 ---------------------------
 CHAPTER-1 (BASICS of CPP)
 ---------------------------
@@ -11,6 +12,7 @@ CHAPTER-1 (BASICS of CPP)
 --Call by Object and Pass by Object
 --Inline functions
 --Nested Class and Nested Objects
+
 ------------------------
 CHAPTER-2 (INHERITENCE)
 ------------------------
